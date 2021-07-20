@@ -19,6 +19,11 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
     HelloComponent,
     HeaderComponent,
     RecipesComponent,
+    RecipeDetailsComponent,
+    RecipeListComponent,
+    RecipeItemComponent,
+    ShoppingListComponent,
+    ShoppingEditComponent,
     ShoppingListComponent
   ],
   bootstrap: [AppComponent]
